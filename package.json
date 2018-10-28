@@ -4,10 +4,11 @@
     "description": "resume app",
     "main": "app.js",
     "dependencies": {
-        "express": "latest",
-        "morgan": "latest",
         "body-parser": "latest",
-        "ejs": "latest"
+        "ejs": "latest",
+        "express": "latest",
+        "mailgun-js": "^0.22.0",
+        "morgan": "latest"
     },
     "license": "Apache-2.0"
 }
